@@ -1,3 +1,4 @@
 Physical spotify media player display with key-switch playback controls and a digital screen to view song info.
 
 ## BOM
+[https://www.aliexpress.com/item/1005009936908326.html?spm=a2g0o.productlist.main.1.61b65KyA5KyA5N&algo_pvid=9321f5a1-afad-4116-8457-21eae5286c6d&algo_exp_id=9321f5a1-afad-4116-8457-21eae5286c6d-0&pdp_ext_f=%7B%22order%22%3A%22194%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AUD%2111.35%212.83%21%21%2154.98%2113.74%21%402103110517733094611283344e878e%2112000050625051194%21sea%21AU%216264596141%21X%211%210%21n_tag%3A-29919%3Bd%3A5fa38fe5%3Bm03_new_user%3A-29895%3BpisId%3A5000000202141042&curPageLogUid=0rACaFHpYz8r&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009936908326%7C_p_origin_prod%3A](Keyboard switches) - For the buttons up top
