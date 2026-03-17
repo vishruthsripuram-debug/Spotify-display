@@ -3,7 +3,9 @@ Physical spotify media player display with key-switch playback controls and a di
 
 ## BOM
 Keyboard switches - Any hotswappable switches I used these ones ([https://www.aliexpress.com/item/1005006814061416.html](url))
+
 MCU (microcontroller) - The microcontroller is the brains of the project. ([https://core-electronics.com.au/esp32-c3-mini-dev-board-iot-wifi-bluetooth.html](url))
+
 TFT display - [https://www.aliexpress.com/item/1005009936908326.html](url) - The screen of the display.
 
 ## Printing instructions
